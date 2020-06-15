@@ -1,3 +1,3 @@
-#include "SithOrange.h"
-#include "JFOOrange.h"
-#include "GreenResponsive.h"
+#include "styles\SithOrange.h"
+#include "styles\JFOOrange.h"
+#include "styles\GreenResponsive.h"
